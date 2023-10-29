@@ -8,7 +8,7 @@ The main goal of this project is to establish a secure and resilient digital inf
 
 ## Project Recap
 
-I have developed a token called "Rosh," which is abbreviated as "Son" The total supply of this token is recorded. Any "Ban" tokens minted by someone will be included in the overall supply. Similarly, if someone chooses to burn these tokens, the total supply will decrease accordingly.
+I have developed a token called "Rosh," which is abbreviated as "Son" The total supply of this token is recorded. Any "Son" tokens minted by someone will be included in the overall supply. Similarly, if someone chooses to burn these tokens, the total supply will decrease accordingly.
 
 ## Installation Process
 
